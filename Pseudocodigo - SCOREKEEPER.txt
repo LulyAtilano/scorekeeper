@@ -1,0 +1,6 @@
+PSEUDOCÓDIGO - SCOREKEEPER
+
+1.- Definir el objeto SCORE.
+2.- Crear los jugadores.
+3.- Agregar los pts a cada jugador.
+4.- Imprimir el SCORE de todos los jugadores.
